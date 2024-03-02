@@ -279,4 +279,4 @@ and data structures, you'll find it can be a very helpful tool.
 
 - [ipdb documentation](https://pypi.org/project/ipdb/)
 - [Python Debugging with PDB](https://realpython.com/python-debugging-pdb/)
-- [Capturing output with pytest](https://docs.pytest.org/en/latest/how-to/capture-stdout-stderr.html#setting-capturing-methods-or-disabling-capturing)
+- [Capturing output with pytest](https://docs.pytest.org/en/latest/how-to/capture-stdout-stderr.html#setting-capturing-methcods-or-disabling-capturing)
